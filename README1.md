@@ -1,4 +1,4 @@
-![Artificial_Intelligence](Artificial_Intelligence.jpeg)
+![Artificial_Intelligence](Artificial_Intelligence.jpg)
 # Entry-Level Cybersecurity Jobs Scraper
 # Project Description
 This project is designed to scrape entry-level cybersecurity job listings from an external job search API and save the data into a CSV file. The script sends a request to the API, retrieves job data specific to entry-level cybersecurity positions in Seattle, and processes the data into a structured format using pandas. This tool is useful for data analysts, job seekers, and researchers looking for insights into the entry-level job market in the cybersecurity field.

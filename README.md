@@ -16,8 +16,6 @@ cd entry-level-cybersecurity-jobs-scraper
 
 Install the required Python packages: Make sure you have Python installed. You can install the required packages using pip:
 
-bash
-Copy code
 <!-- python code block -->
 ```python
 pip install requests pandas
@@ -27,9 +25,10 @@ Set up your API Key: Replace the placeholder API key in the script (x-rapidapi-k
 # Usage
 To run the script and retrieve the job data, execute the following command:
 
-bash
-Copy code
+<!-- python code block -->
+```python
 python job_scraper.py
+```
 The script will fetch entry-level cybersecurity job listings for Seattle, process the data, and save it to a CSV file named entry_level_cybersecurity_jobs.csv in the current directory.
 
 # Customization

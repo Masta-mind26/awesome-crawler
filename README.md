@@ -8,10 +8,12 @@ To run this project, you'll need Python installed on your system along with the 
 
 # Clone the repository (if applicable):
 
-bash
-Copy code
+<!-- python code block -->
+```python
 git clone https://github.com/yourusername/entry-level-cybersecurity-jobs-scraper.git
 cd entry-level-cybersecurity-jobs-scraper
+```
+
 Install the required Python packages: Make sure you have Python installed. You can install the required packages using pip:
 
 bash

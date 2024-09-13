@@ -18,7 +18,10 @@ Install the required Python packages: Make sure you have Python installed. You c
 
 bash
 Copy code
+<!-- python code block -->
+```python
 pip install requests pandas
+```
 Set up your API Key: Replace the placeholder API key in the script (x-rapidapi-key) with your actual key from RapidAPI.
 
 # Usage

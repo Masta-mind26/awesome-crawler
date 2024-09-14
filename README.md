@@ -50,12 +50,6 @@ You can customize the query parameters in the script to change the job search cr
 q: The search query. Currently set to "entry level cybersecurity".
 page: The page number of the search results.
 country: The country filter, currently set to the US.
-```bash
-#!/bin/bash
-# Change to search for jobs in New York City
-city: 'New York'
-```
-
 city: The city filter, currently set to Seattle.
 Modify these parameters as needed to suit your requirements.
 

@@ -85,4 +85,4 @@ This project uses data from the Job Search API available on RapidAPI.
 ## Frequently Asked Questions (FAQ)
 1. How do I get a RapidAPI key?
 
-   To acquire an API key is as simple as going to a website, for example www.rapidapi.com, select an API of choice. Set the necessary settings needed and test the API to make sure it's functional, once it's functional then proceed to coping the code and place it into your IDE(Integrated Development Enviroment) and run it.
+   To acquire an API key is as simple as going to a website, for example www.rapidapi.com, select an API of choice. Set the necessary settings needed and test the API to make sure it's functional, once it's functional then proceed to coping the code and place it into your IDE (Integrated Development Enviroment) and run it.

@@ -30,7 +30,7 @@ To run the script and retrieve the job data, execute the following command:
 python job_scraper.py
 ```
 The script will fetch entry-level cybersecurity job listings for Seattle, process the data, and save it to a CSV file named entry_level_cybersecurity_jobs.csv in the current directory.
-
+![code](code.png)
 # Customization
 You can customize the query parameters in the script to change the job search criteria:
 

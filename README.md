@@ -62,6 +62,7 @@ country: The country filter, currently set to the US.
 city: The city filter, currently set to Seattle.
 
 Change to search for jobs in New York City
+
 city: 'New York'
 
 Modify these parameters as needed to suit your requirements.

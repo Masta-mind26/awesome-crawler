@@ -56,6 +56,7 @@ Expand the search to include cybersecurity internships
 q: 'cybersecurity internship'
 
 page: The page number of the search results.
+
 country: The country filter, currently set to the US.
 
 city: The city filter, currently set to Seattle.

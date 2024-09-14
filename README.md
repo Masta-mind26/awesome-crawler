@@ -55,15 +55,15 @@ Expand the search to include cybersecurity internships
 
 q: 'cybersecurity internship'
 
-page: The page number of the search results.
+Page: The page number of the search results.
 
-country: The country filter, currently set to the US.
+Country: The country filter, currently set to the US.
 
-city: The city filter, currently set to Seattle.
+City: The city filter, currently set to Seattle.
 
 Change to search for jobs in New York City
 
-city: 'New York'
+City: 'New York'
 
 Modify these parameters as needed to suit your requirements.
 
@@ -81,3 +81,8 @@ Open a pull request.
 # Credits
 Developer: Your Name (youremail@example.com)
 This project uses data from the Job Search API available on RapidAPI.
+
+## Frequently Asked Questions (FAQ)
+1. How do I get a RapidAPI key?
+
+   To acquire an API key is as simple as going to a website, for example www.rapidapi.com, select an API of choice. Set the necessary settings needed and test the API to make sure it's functional, once it's functional then proceed to coping the code and place it into your IDE(Integrated Development Enviroment) and run it.

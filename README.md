@@ -86,3 +86,20 @@ This project uses data from the Job Search API available on RapidAPI.
 1. How do I get a RapidAPI key?
 
    To acquire an API key is as simple as going to a website, for example www.rapidapi.com, select an API of choice. Set the necessary settings needed and test the API to make sure it's functional, once it's functional then proceed to coping the code and place it into your IDE (Integrated Development Enviroment) and run it.
+
+2. What happens if I exceed my API quota?
+
+   Exceeding your API quota will return a "Failed to retrieve data: 429" error. A few solutions for this error are implement request throttling which is to limit the number of you send to the server over a given period. For example, pause for a few seconds between each request. Use API Key Rotation if allowed, if the API permits, rotate between multiple API keys to distribute the load. Contact Support, if you're consistently hitting rate limits, consider reaching out to the API provider for support or to request higher limits.
+
+3. How do I report bugs or suggest features?
+
+   You can submit issues via the GitHub issues page.
+
+4. What if I encounter an error during installation?
+
+   Check the troubleshooting section for common issues and fixes. If you're still stuck, feel free to raise an issue on GitHub.
+
+5. How can I contribute?
+
+   We welcome contributions! Please check out our Contribution Guidelines for how to get started.
+
